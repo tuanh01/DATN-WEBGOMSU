@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="pottery-shop/src/main/java"/>
-	<classpathentry kind="src" path="pottery-shop/src/test/java"/>
-	<classpathentry kind="src" path="pottery-shop/target/generated-sources/java"/>
-	<classpathentry kind="lib" path="pottery-shop/.mvn/wrapper/maven-wrapper.jar"/>
-	<classpathentry kind="output" path="pottery-shop/target/classes"/>
-</classpath>
